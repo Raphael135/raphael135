@@ -13,7 +13,7 @@ Atualmente, atuo como Desenvolvedor e Suporte de TI na empresa Gaya, onde coloco
   <img align="center" alt="html5" src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,mysql,postgresql,nodejs,docker,git" />
 </div><br/>
 
-👨🏿‍💻 Desenvolvedor e Suporte de TI, apaixonado por adiquirir mais conhecimentos.
+👨🏿‍💻 Desenvolvedor Fullstack, apaixonado por adiquirir mais conhecimentos.
 
 
   
