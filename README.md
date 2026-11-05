@@ -30,15 +30,6 @@ Passionate about transforming complex manual business processes into automated, 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raphael135&show_icons=true&theme=dark" alt="Raphael's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael135&layout=compact&theme=dark" alt="Top Languages" height="150"/>
-</div>
-
----
-
 ### 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/raphael-rodolfo-687463225/" target="_blank">
