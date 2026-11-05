@@ -44,6 +44,3 @@ Passionate about transforming complex manual business processes into automated, 
 <a href="https://www.linkedin.com/in/raphael-rodolfo-687463225/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://raphael135.github.io/My-Portfolio-/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-</a>
